@@ -1,0 +1,32 @@
+\nRectangle:
+Area: 50000
+Perimeter: 1200
+Outline color: 0x8000
+Fill color: 0x8000
+Left top: x: 0.000000 y: 440.000000
+Right bottom: x: 500.000000 y: 540.000000
+Width: 500.000000
+Height: 100.000000
+
+Shape with max area:
+Rectangle:
+Area: 50000
+Perimeter: 1200
+Outline color: 0x8000
+Fill color: 0x8000
+Left top: x: 0.000000 y: 440.000000
+Right bottom: x: 500.000000 y: 540.000000
+Width: 500.000000
+Height: 100.000000
+
+Shape with min perimeter:
+Rectangle:
+Area: 50000
+Perimeter: 1200
+Outline color: 0x8000
+Fill color: 0x8000
+Left top: x: 0.000000 y: 440.000000
+Right bottom: x: 500.000000 y: 540.000000
+Width: 500.000000
+Height: 100.000000
+

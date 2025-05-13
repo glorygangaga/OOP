@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/faiteflop/Documents/projects/oop/l7/stack/CMyStack.cpp
+iostream
+-
+stdexcept
+-
+
+/home/faiteflop/Documents/projects/oop/l7/stack/test.cpp
+gtest/gtest.h
+-
+CMyStack.cpp
+/home/faiteflop/Documents/projects/oop/l7/stack/CMyStack.cpp
+

@@ -1,0 +1,4 @@
+line asdf
+rectangle asfdasdf
+circle asdf fasdf adadf fads
+triangle 234 23 fwae 23 23 23 23 23 23 23 23

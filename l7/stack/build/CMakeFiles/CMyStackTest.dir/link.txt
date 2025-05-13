@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/CMyStackTest.dir/test.cpp.o CMakeFiles/CMyStackTest.dir/CMyStack.cpp.o  -o CMyStackTest  -lpthread /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

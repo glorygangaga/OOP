@@ -1,0 +1,28 @@
+\nTriangle:
+Area: 10000
+Perimeter: 482.843
+Outline color: 0x0
+Fill color: 0xff0000
+Vertex 1: x: 150.000000 y: 300.000000
+Vertex 2: x: 250.000000 y: 200.000000
+Vertex 3: x: 350.000000 y: 300.000000
+
+Shape with max area:
+Triangle:
+Area: 10000
+Perimeter: 482.843
+Outline color: 0x0
+Fill color: 0xff0000
+Vertex 1: x: 150.000000 y: 300.000000
+Vertex 2: x: 250.000000 y: 200.000000
+Vertex 3: x: 350.000000 y: 300.000000
+
+Shape with min perimeter:
+Triangle:
+Area: 10000
+Perimeter: 482.843
+Outline color: 0x0
+Fill color: 0xff0000
+Vertex 1: x: 150.000000 y: 300.000000
+Vertex 2: x: 250.000000 y: 200.000000
+Vertex 3: x: 350.000000 y: 300.000000

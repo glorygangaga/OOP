@@ -1,0 +1,3 @@
+/home/faiteflop/Documents/projects/oop/l7/stack/build/CMakeFiles/rebuild_cache.dir
+/home/faiteflop/Documents/projects/oop/l7/stack/build/CMakeFiles/edit_cache.dir
+/home/faiteflop/Documents/projects/oop/l7/stack/build/CMakeFiles/CMyStackTest.dir

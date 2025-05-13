@@ -1,0 +1,1 @@
+circle 340 40 30 FFD700 FFD700

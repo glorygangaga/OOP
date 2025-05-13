@@ -1,0 +1,215 @@
+\nRectangle:
+Area: 50000
+Perimeter: 1200
+Outline color: 0x8000
+Fill color: 0x8000
+Left top: x: 0.000000 y: 440.000000
+Right bottom: x: 500.000000 y: 540.000000
+Width: 500.000000
+Height: 100.000000
+
+Rectangle:
+Area: 30000
+Perimeter: 700
+Outline color: 0x0
+Fill color: 0x87ceeb
+Left top: x: 150.000000 y: 300.000000
+Right bottom: x: 350.000000 y: 450.000000
+Width: 200.000000
+Height: 150.000000
+
+Triangle:
+Area: 10000
+Perimeter: 482.843
+Outline color: 0x0
+Fill color: 0xff0000
+Vertex 1: x: 150.000000 y: 300.000000
+Vertex 2: x: 250.000000 y: 200.000000
+Vertex 3: x: 350.000000 y: 300.000000
+
+Rectangle:
+Area: 3200
+Perimeter: 240
+Outline color: 0x0
+Fill color: 0x8b4513
+Left top: x: 230.000000 y: 370.000000
+Right bottom: x: 270.000000 y: 450.000000
+Width: 40.000000
+Height: 80.000000
+
+Rectangle:
+Area: 1600
+Perimeter: 160
+Outline color: 0x0
+Fill color: 0xffffff
+Left top: x: 170.000000 y: 320.000000
+Right bottom: x: 210.000000 y: 360.000000
+Width: 40.000000
+Height: 40.000000
+
+Rectangle:
+Area: 1600
+Perimeter: 160
+Outline color: 0x0
+Fill color: 0xffffff
+Left top: x: 290.000000 y: 320.000000
+Right bottom: x: 330.000000 y: 360.000000
+Width: 40.000000
+Height: 40.000000
+
+Circle:
+Area: 2827.43
+Perimeter: 188.496
+Outline color: 0xffd700
+Fill color: 0xffd700
+Center: x: 340.000000 y: 40.000000
+Radius: 30.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 400.000000 y: 70.000000
+End point: x: 400.000000 y: 40.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 400.000000 y: 130.000000
+End point: x: 400.000000 y: 160.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 370.000000 y: 100.000000
+End point: x: 340.000000 y: 100.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 430.000000 y: 100.000000
+End point: x: 460.000000 y: 100.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 370.000000 y: 70.000000
+End point: x: 350.000000 y: 50.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 430.000000 y: 70.000000
+End point: x: 450.000000 y: 50.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 370.000000 y: 130.000000
+End point: x: 350.000000 y: 150.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 430.000000 y: 130.000000
+End point: x: 450.000000 y: 150.000000
+
+Circle:
+Area: 706.858
+Perimeter: 94.2478
+Outline color: 0x0
+Fill color: 0xffffff
+Center: x: 70.000000 y: 350.000000
+Radius: 15.000000
+
+Circle:
+Area: 3.14159
+Perimeter: 6.28319
+Outline color: 0x0
+Fill color: 0x0
+Center: x: 103.000000 y: 373.000000
+Radius: 1.000000
+
+Circle:
+Area: 3.14159
+Perimeter: 6.28319
+Outline color: 0x0
+Fill color: 0x0
+Center: x: 93.000000 y: 373.000000
+Radius: 1.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0x0
+Start point: x: 97.000000 y: 385.000000
+End point: x: 102.000000 y: 387.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0x0
+Start point: x: 99.000000 y: 387.000000
+End point: x: 104.000000 y: 385.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0x0
+Start point: x: 100.000000 y: 395.000000
+End point: x: 100.000000 y: 430.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0x0
+Start point: x: 100.000000 y: 405.000000
+End point: x: 80.000000 y: 420.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0x0
+Start point: x: 100.000000 y: 405.000000
+End point: x: 120.000000 y: 420.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0x0
+Start point: x: 100.000000 y: 430.000000
+End point: x: 90.000000 y: 460.000000
+
+Line:
+Area: 0
+Perimeter: 0
+Outline color: 0x0
+Start point: x: 100.000000 y: 430.000000
+End point: x: 110.000000 y: 460.000000
+
+Shape with max area:
+Rectangle:
+Area: 50000
+Perimeter: 1200
+Outline color: 0x8000
+Fill color: 0x8000
+Left top: x: 0.000000 y: 440.000000
+Right bottom: x: 500.000000 y: 540.000000
+Width: 500.000000
+Height: 100.000000
+
+Shape with min perimeter:
+Circle:
+Area: 3.14159
+Perimeter: 6.28319
+Outline color: 0x0
+Fill color: 0x0
+Center: x: 103.000000 y: 373.000000
+Radius: 1.000000

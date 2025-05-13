@@ -1,0 +1,25 @@
+\nCircle:
+Area: 2827.43
+Perimeter: 188.496
+Outline color: 0xffd700
+Fill color: 0xffd700
+Center: x: 340.000000 y: 40.000000
+Radius: 30.000000
+
+Shape with max area:
+Circle:
+Area: 2827.43
+Perimeter: 188.496
+Outline color: 0xffd700
+Fill color: 0xffd700
+Center: x: 340.000000 y: 40.000000
+Radius: 30.000000
+
+Shape with min perimeter:
+Circle:
+Area: 2827.43
+Perimeter: 188.496
+Outline color: 0xffd700
+Fill color: 0xffd700
+Center: x: 340.000000 y: 40.000000
+Radius: 30.000000

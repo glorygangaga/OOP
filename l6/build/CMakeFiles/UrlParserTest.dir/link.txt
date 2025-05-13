@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/UrlParserTest.dir/test.cpp.o CMakeFiles/UrlParserTest.dir/app.cpp.o CMakeFiles/UrlParserTest.dir/CHttpUrl.cpp.o  -o UrlParserTest  -lpthread /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a -lpthread 

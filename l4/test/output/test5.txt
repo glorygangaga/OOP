@@ -1,0 +1,8 @@
+\nLine:
+Area: 0
+Perimeter: 0
+Outline color: 0xffd700
+Start point: x: 400.000000 y: 70.000000
+End point: x: 400.000000 y: 40.000000
+
+No shapes available
