@@ -1,9 +1,10 @@
 #ifndef CHTTPURL_H
 #define CHTTPURL_H
 
-#include <sstream>
 #include <iostream>
+#include <sstream>
 #include <algorithm>
+#include <optional>
 #include "CUrlParsingError.h"
 
 class CHttpUrl
@@ -18,10 +19,7 @@ public:
       std::invalid_argument
       Если имя документа не начинается с символа /, то добавляет / к имени документа
   */
-  CHttpUrl(
-      std::string const &domain,
-      std::string const &document,
-      Protocol protocol) : m_protocol(protocol), m_document(document), m_port(GetDefaultPort(protocol)), m_domain(GetValidDomain(domain)) {};
+  CHttpUrl(std::string const &domain, std::string const &document, Protocol protocol);
 
   /* инициализирует URL на основе переданных параметров.
       При недопустимости входных параметров выбрасывает исключение

@@ -15,6 +15,10 @@ CHttpUrl::CHttpUrl(std::string const &url)
       return CHttpUrl(domain, document, protocol, port);
   return CHttpUrl(domain, document, protocol); }()) {};
 
+CHttpUrl::CHttpUrl(std::string const &domain, std::string const &document, Protocol protocol)
+    : CHttpUrl([&]() -> CHttpUrl
+               { return CHttpUrl(domain, document, protocol, GetDefaultPort(protocol)); }()) {};
+
 std::string CHttpUrl::GetURL() const
 {
   std::string port;

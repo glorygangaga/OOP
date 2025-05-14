@@ -11,11 +11,13 @@ CHttpUrl.h
 /home/faiteflop/Documents/projects/oop/l6/CHttpUrl.h
 
 /home/faiteflop/Documents/projects/oop/l6/CHttpUrl.h
-sstream
--
 iostream
 -
+sstream
+-
 algorithm
+-
+optional
 -
 CUrlParsingError.h
 /home/faiteflop/Documents/projects/oop/l6/CUrlParsingError.h
@@ -39,10 +41,6 @@ CHttpUrl.h
 /home/faiteflop/Documents/projects/oop/l6/CHttpUrl.h
 
 /home/faiteflop/Documents/projects/oop/l6/app.h
-optional
--
-memory
--
 CHttpUrl.h
 /home/faiteflop/Documents/projects/oop/l6/CHttpUrl.h
 
